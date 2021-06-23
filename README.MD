@@ -7,7 +7,6 @@ Date of birth: 07 of June 1990
 Education: Master degree / _Высшее_ 
 Contacts:
   * ___Telegram  @BurykinAlexandr___  
-  * ___Viber +38093-148-14-34___  
   * Skype 
   * Gmail burykin.alexandr.work@gmail.com
   * Ukraine +38066-535-44-68
