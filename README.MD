@@ -4,7 +4,7 @@
 <img align = "center" src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="275" height="300"/>  
 
 Date of birth: 07 of June 1990   
-Education: Master degree / _Высшее_ 
+Education: Master degree / _Высшее_  
 Contacts:
   * ___Telegram  @BurykinAlexandr___  
   * Skype 
