@@ -1,15 +1,15 @@
 ﻿____
 ### Alexandr Burykin  
 
-<img align = "center" src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="275" height="300"/>  
+<img align = "middle" src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="275" height="300"/>  
 
-Date of birth: 07 of June 1990   
+Date of birth: 07 of June 1990 
 Education: Master degree / _Высшее_  
 Contacts:
-  * ___Telegram  @BurykinAlexandr___  
-  * Skype 
-  * Gmail burykin.alexandr.work@gmail.com
-  * Ukraine +38066-535-44-68
+___Telegram  @BurykinAlexandr___  
+Skype 
+Gmail burykin.alexandr.work@gmail.com
+Ukraine +38066-535-44-68
 
 - [x] 2008 - 2013 - Master degree: Computer tehnologies in machine building / _Высшее: Компьютерные технологии в машиностроительном производстве_  
 - [x] 2013 - 2015 - Teacher in Professional energy lyceum of Zmiiv / _Педагог в Змиевском професионально энергетическом лицее_  
@@ -19,7 +19,7 @@ Contacts:
 ____
 
 ### __Skills:__   
-* Languages of speaking, reading, listening, watching videos without subtitles: English, Russian, Ukrainian  
+* English: B2 Upper Intermediate
 * Touch typing: English, Russian, Ukrainian  
 * Design Patterns  
 * Git
