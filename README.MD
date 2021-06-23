@@ -1,27 +1,32 @@
 ____
-### Alexandr Burykin
-Born in: 07 of June 1990
-Education: Master degree: Computer tehnologies in machine building  
-Образование: Высшее: Компьютерные технологии в машиностроительном производстве
-
+### Alexandr Burykin  
+Born in: 07 of June 1990  
+Male  
+Education: Master degree: Computer tehnologies in machine building 2008-2013 / Высшее: Компьютерные технологии в машиностроительном производстве 2008-2013  
+2013 - 2015 - Teacher in Professional energy lyceum of Zmiiv / Педагог в Змиевском професионально энергетическом лицее  
+2017 - 2018 - Conscript Duty in Ukrainian Forces / Срочная служба в армии  
+2018 - 2019 - Teacher in Professional energy lyceum of Zmiiv / Педагог в Змиевском професионально энергетическом лицее  
+2019 - now - Member of group information and measuring systems Zmiiv Power Station. / Работник группы информационно-измерительных систем на Змиевской Тепловой Электроической Станции
 ____
 
-### __Skills:__  
--Languages of speaking, reading, listening, watching videos without subtitles: English, Russian, Ukrainian 
--Touch typing: English, Russian, Ukrainian 
+### __Skills:__   
+-Languages of speaking, reading, listening, watching videos without subtitles: English, Russian, Ukrainian  
+-Touch typing: English, Russian, Ukrainian  
 -Design Patterns  
--Git  
+-Git
+-REST API  
 -Android SDK  
 -Kotlin(Coroutine, Coroutine Flow ...)  
 -Firebase(Auth, Firestore, Storage...)  
--Jetpack Dagger Hilt  
--Jetpack Compose  
--Jetpack Live Data  
--Jetpack Room  
--Jetpack Data Binding  
--Jetpack Work Manager  
--Jetpack Retrofit  
--Jetpack Paging  
+-Android Architacture Components:  
++Jetpack Dagger Hilt  
++Jetpack Compose  
++Jetpack Live Data  
++Jetpack Room  
++Jetpack Data Binding  
++Jetpack Work Manager  
++Jetpack Retrofit  
++Jetpack Paging  
 
 ____
 ### My projects:
