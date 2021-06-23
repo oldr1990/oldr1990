@@ -1,7 +1,7 @@
 ﻿____
 ### Alexandr Burykin  
-
-<img align = "middle" src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="275" height="300"/>  
+<center>
+<img align = "middle" src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="275" height="300"/></center>  
 
 Date of birth: 07 of June 1990 
 Education: Master degree / _Высшее_  
@@ -15,7 +15,7 @@ Ukraine +38066-535-44-68
 - [x] 2013 - 2015 - Teacher in Professional energy lyceum of Zmiiv / _Педагог в Змиевском професионально энергетическом лицее_  
 - [x] 2017 - 2018 - Conscript Duty in Ukrainian Forces / Срочная служба в ЗСУ  
 - [x] 2018 - 2019 - Teacher in Professional energy lyceum of Zmiiv / _Педагог в Змиевском професионально энергетическом лицее_  
-- [ ] 2019 - _now_ - Member of group information and measuring systems Zmiiv Power Station. / _Работник группы информационно-измерительных систем на Змиевской Тепловой Электроической Станции_  
+- [ ] 2019 - _now_ - Member of group information and measuring systems Zmiiv Power Station. / _Работник группы информационно-измерительных систем на Змиевской Тепловой Электрической Станции_  
 ____
 
 ### __Skills:__   
