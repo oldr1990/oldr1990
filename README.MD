@@ -14,7 +14,9 @@ ____
 * Touch typing: English, Russian, Ukrainian  
 * Design Patterns  
 * Git
-* REST API  
+* REST API
+* Multithreading
+* Algorithms  
 * Android SDK  
 * Kotlin(Coroutine, Coroutine Flow ...)  
 * Firebase(Auth, Firestore, Storage...)  
