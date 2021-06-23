@@ -9,7 +9,7 @@ Education: Master degree / _Высшее_
 Contacts:  
 ___Telegram @BurykinAlexandr___  
 Skype live:.cid.15e315de4be6f41f  
-Gmail burykin.alexandr.work@gmail.com  
+Email burykin.alexandr.work@gmail.com  
 Ukraine +38066-535-44-68  
 
 - [x] 2008 - 2013 - Master degree: Computer tehnologies in machine building / _Высшее: Компьютерные технологии в машиностроительном производстве_  
