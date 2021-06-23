@@ -1,6 +1,6 @@
 ____
 ### Alexandr Burykin  
-Born in: 07 of June 1990  
+Date if birth: 07 of June 1990  
 Education: Master degree / Высшее 
 - [x] 2008 - 2013 - Master degree: Computer tehnologies in machine building / Высшее: Компьютерные технологии в машиностроительном производстве 
 - [x] 2013 - 2015 - Teacher in Professional energy lyceum of Zmiiv / Педагог в Змиевском професионально энергетическом лицее  
