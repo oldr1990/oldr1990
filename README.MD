@@ -2,31 +2,31 @@ ____
 ### Alexandr Burykin  
 Born in: 07 of June 1990  
 Male  
-Education: Master degree: Computer tehnologies in machine building 2008-2013 / Высшее: Компьютерные технологии в машиностроительном производстве 2008-2013  
+2008 - 2013 - Education: Master degree: Computer tehnologies in machine building / Высшее: Компьютерные технологии в машиностроительном производстве 2008-2013  
 2013 - 2015 - Teacher in Professional energy lyceum of Zmiiv / Педагог в Змиевском професионально энергетическом лицее  
 2017 - 2018 - Conscript Duty in Ukrainian Forces / Срочная служба в армии  
 2018 - 2019 - Teacher in Professional energy lyceum of Zmiiv / Педагог в Змиевском професионально энергетическом лицее  
-2019 - now - Member of group information and measuring systems Zmiiv Power Station. / Работник группы информационно-измерительных систем на Змиевской Тепловой Электроической Станции
+2019 - _now_ - Member of group information and measuring systems Zmiiv Power Station. / Работник группы информационно-измерительных систем на Змиевской Тепловой Электроической Станции
 ____
 
 ### __Skills:__   
--Languages of speaking, reading, listening, watching videos without subtitles: English, Russian, Ukrainian  
--Touch typing: English, Russian, Ukrainian  
--Design Patterns  
--Git
--REST API  
--Android SDK  
--Kotlin(Coroutine, Coroutine Flow ...)  
--Firebase(Auth, Firestore, Storage...)  
--Android Architacture Components:  
-+Jetpack Dagger Hilt  
-+Jetpack Compose  
-+Jetpack Live Data  
-+Jetpack Room  
-+Jetpack Data Binding  
-+Jetpack Work Manager  
-+Jetpack Retrofit  
-+Jetpack Paging  
+- [x] Languages of speaking, reading, listening, watching videos without subtitles: English, Russian, Ukrainian  
+- [x] Touch typing: English, Russian, Ukrainian  
+- [x] Design Patterns  
+- [x] Git
+- [x] REST API  
+- [x] Android SDK  
+- [x] Kotlin(Coroutine, Coroutine Flow ...)  
+- [x] Firebase(Auth, Firestore, Storage...)  
+- [x] Android Architacture Components:  
+- [x] Jetpack Dagger Hilt  
+- [x] Jetpack Compose  
+- [x] Jetpack Live Data  
+- [x] Jetpack Room  
+- [x] Jetpack Data Binding  
+- [x] Jetpack Work Manager  
+- [x] Jetpack Retrofit  
+- [x] Jetpack Paging  
 
 ____
 ### My projects:
