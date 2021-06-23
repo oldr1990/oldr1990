@@ -1,6 +1,6 @@
 ﻿____
 
-###__Skills:__
+### __Skills:__  
 -Languages of speaking, reading, listening, watching videos without subtitles: English, Russian, Ukrainian  
 -Design Patterns  
 -Git  
