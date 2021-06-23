@@ -1,21 +1,20 @@
 ﻿____
 
-__Skills:__
--Languages of speaking, reading, listening, watching videos without subtitles: English, Russian, Ukrainian
--Touch typing: English, Russian, Ukrainian
--Design Patterns
--Git
--Android SDK
--Kotlin(Coroutine,Coroutine Flow ...)
--Firebase(Auth, Firestore, Storage...)
--Jetpack Dagger Hilt
--Jetpack Compose
--Jetpack Live Data
--Jetpack Room
--Jetpack Data Binding
--Jetpack Work Manager
--Jetpack Retrofit
--Jetpack Paging
+###__Skills:__
+-Languages of speaking, reading, listening, watching videos without subtitles: English, Russian, Ukrainian  
+-Design Patterns  
+-Git  
+-Android SDK  
+-Kotlin(Coroutine,Coroutine Flow ...)  
+-Firebase(Auth, Firestore, Storage...)  
+-Jetpack Dagger Hilt  
+-Jetpack Compose  
+-Jetpack Live Data  
+-Jetpack Room  
+-Jetpack Data Binding  
+-Jetpack Work Manager  
+-Jetpack Retrofit  
+-Jetpack Paging  
 
 ____
 ### My projects all was:
