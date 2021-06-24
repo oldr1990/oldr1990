@@ -4,7 +4,7 @@
 <img align = "middle" src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="275" height="300"/>  
 </center>  
 
-Date of birth: 07 of June 1990  
+Date of birth: 07th of June 1990  
 Education: Master degree / _Высшее_  
 Contacts:  
 ___Telegram @BurykinAlexandr___  
@@ -27,7 +27,8 @@ ____
 * REST API
 * Multithreading
 * Algorithms  
-* Android SDK  
+* Android SDK
+* JUnit  
 * Kotlin (Coroutine, Coroutine Flow ...)  
 * Firebase (Auth, Firestore, Storage...)  
 * Android Architacture Components:  
