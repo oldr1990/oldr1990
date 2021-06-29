@@ -2,8 +2,8 @@ ____
 ### Alexandr Burykin  
 <img src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="285" height="300">  
 Date if birth: 07 of June 1990  
-Education: Master degree / _Высшее_ 
-- [x] 2008 - 2013 - Master degree: Computer tehnologies in machine building / _Высшее: Компьютерные технологии в машиностроительном производстве_ 
+Education: Master degree / _Высшее_  
+- [x] 2008 - 2013 - Master degree: Computer tehnologies in machine building / _Высшее: Компьютерные технологии в машиностроительном производстве_  
 - [x] 2013 - 2015 - Teacher in Professional energy lyceum of Zmiiv / _Педагог в Змиевском професионально энергетическом лицее_  
 - [x] 2017 - 2018 - Conscript Duty in Ukrainian Forces / Срочная служба в ЗСУ  
 - [x] 2018 - 2019 - Teacher in Professional energy lyceum of Zmiiv / _Педагог в Змиевском професионально энергетическом лицее_  
