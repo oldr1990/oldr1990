@@ -1,6 +1,6 @@
 ____
 ### Alexandr Burykin  
-<img src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="600" height="550">  
+<img src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="550" height="600">  
 Date if birth: 07 of June 1990  
 Education: Master degree / _Высшее_ 
 - [x] 2008 - 2013 - Master degree: Computer tehnologies in machine building / _Высшее: Компьютерные технологии в машиностроительном производстве_ 
