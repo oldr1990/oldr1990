@@ -22,7 +22,7 @@ ____
 * Android SDK  
 * Kotlin(Coroutine, Coroutine Flow ...)  
 * Firebase(Auth, Firestore, Storage...)  
-* Android Architacture Components(Dagger Hilt, Compose ( + Compose Navigation), Live Data, Data Binding, Room, Work Manager, Retrofit ( +OkHTTP ), Paging, Shared Preferences ...)  
+* Android Jetpack(Dagger Hilt, Compose ( + Compose Navigation), Live Data, Data Binding, Room, Work Manager, Retrofit ( +OkHTTP ), Paging, Shared Preferences ...)  
   
 
 ____
