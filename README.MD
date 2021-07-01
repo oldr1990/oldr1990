@@ -12,7 +12,7 @@ Education: Master degree / _Высшее_
 ____
 
 ### __Skills:__   
-* Languages of speaking, reading, listening, watching videos without subtitles: English, Russian, Ukrainian  
+* English B2, Russian, Ukrainian  
 * Touch typing: English, Russian, Ukrainian  
 * Design Patterns  
 * Git
