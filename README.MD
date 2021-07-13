@@ -2,6 +2,13 @@ ____
 ### Alexandr Burykin  
 <img src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="285" height="300">  
   
+__Contact me:  
+[LinkedIn](https://linkedin.com/in/alexandr-burykin-914b41215)  
+[Telegram](https://t.me/BurykinAlexandr)  
+[Viber](https://msng.link/o/?380931481434=vi)   
+[Email](mailto:burykin.alexandr.work@gmail.com)  
+Ukraine: +38066-535-44-68__
+
 Date if birth: 07 of June 1990  
 Education: Master degree / _Высшее_  
 - [x] 2008 - 2013 - Master degree: Computer tehnologies in machine building / _Высшее: Компьютерные технологии в машиностроительном производстве_  
