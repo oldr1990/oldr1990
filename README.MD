@@ -6,7 +6,8 @@ __Contact me:
 [LinkedIn](https://linkedin.com/in/alexandr-burykin-914b41215)  
 [Telegram](https://t.me/BurykinAlexandr)  
 [Viber](https://msng.link/o/?380931481434=vi)   
-[Email](mailto:burykin.alexandr.work@gmail.com)  
+[Email](mailto:burykin.alexandr.work@gmail.com)
+[Skype](https://join.skype.com/invite/DDwbdilT21HX)
 Ukraine: +38066-535-44-68__
 
 Date if birth: 07 of June 1990  
