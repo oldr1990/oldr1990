@@ -2,7 +2,7 @@ ____
 ### Alexandr Burykin  
 <img src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="285" height="300">  
   
-__Contact me:  
+
 [LinkedIn](https://linkedin.com/in/alexandr-burykin-914b41215)  
 [Telegram](https://t.me/BurykinAlexandr)  
 [Viber](https://msng.link/o/?380931481434=vi)   
