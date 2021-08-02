@@ -8,7 +8,7 @@ ____
 [Viber](https://msng.link/o/?380931481434=vi)   
 [Email](mailto:burykin.alexandr.work@gmail.com)  
 [Skype](https://join.skype.com/invite/DDwbdilT21HX)  
-Ukraine: +38066-535-44-68__
+Ukraine: +38066-535-44-68  
 
 Date if birth: 07 of June 1990  
 Education: Master degree / _Высшее_  
