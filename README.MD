@@ -16,7 +16,7 @@ Education: Master degree / _Высшее_
 - [x] 2013 - 2015 - Teacher in Professional energy lyceum of Zmiiv / _Педагог в Змиевском професионально энергетическом лицее_  
 - [x] 2018 - 2019 - Teacher in Professional energy lyceum of Zmiiv / _Педагог в Змиевском професионально энергетическом лицее_  
 - [x] 2019 - 2021 - Member of group information and measuring systems Zmiiv Power Station. / _Работник группы информационно-измерительных систем на Змиевской Тепловой Электроической Станции_  
-- [ ] 2021 - now - Android Developer of Pivat24 AOS in Privat Bank.  
+- [ ] 2021 - now - Android Developer of Privat24 AOS in Privat Bank.  
 ____
 
 ### __Skills:__   
