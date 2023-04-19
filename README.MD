@@ -19,7 +19,7 @@ ____
 ### Work Experience:
 #### PrivatBank, Privat24 AOS Team. Middle Android/Flutter Developer,    
 I'm working scince September of 2021 and keep going   
-   I've been working on Privat24 online banking app. It's cross-platform mobile applications using Flutter and Android. Privat24 is include a multi-module app architecture, with separate modules for Android and Flutter components, enabling code reusability and maintainability.
+   I'm working on Privat24 online banking app. It's cross-platform mobile applications using Flutter and Android. Privat24 is include a multi-module app architecture, with separate modules for Android and Flutter components, enabling code reusability and maintainability.
    Collaborated with cross-functional teams, including product managers, designers, and QA engineers, to gather requirements, design, develop, and test mobile applications.
   I have hands-on experience in developing fully functional services for a banking app in Flutter and Native Android modules. Additionally, I have successfully addressed architecture problems and refactored legacy code to improve the overall quality and maintainability of the app. I have conducted thorough research and successfully implemented updates to permissions in compliance with Google's privacy policy updates.
    Followed best coding practices and performed code reviews to ensure code quality and maintainability.
