@@ -10,27 +10,27 @@ ____
 [Skype](https://join.skype.com/invite/DDwbdilT21HX)  
 Ukraine: +38066-535-44-68  
 
-Date if birth: 07 of June 1990  
-Education: Master degree / _Высшее_  
-- [x] 2008 - 2013 - Master(Specialist) degree: Computer tehnologies in machine building / _Высшее: Компьютерные технологии в машиностроительном производстве_  
-- [x] 2013 - 2015 - Teacher in Professional energy lyceum of Zmiiv / _Педагог в Змиевском професионально энергетическом лицее_  
-- [x] 2018 - 2019 - Teacher in Professional energy lyceum of Zmiiv / _Педагог в Змиевском професионально энергетическом лицее_  
-- [x] 2019 - 2021 - Member of group information and measuring systems Zmiiv Power Station. / _Работник группы информационно-измерительных систем на Змиевской Тепловой Электроической Станции_  
-- [ ] 2021 - now - Android Developer of Privat24 AOS in Privat Bank.  
+### Summary:
+Highly skilled and experienced Middle Android/Flutter Developer with a strong background in developing mobile applications using Flutter and Java/Kotlin for Android platforms. Possessing a deep understanding of mobile application development lifecycle, UI/UX design, and best coding practices. I have a strong aptitude for comprehending code written in various architecture patterns, even if the codebase is not well-documented or lacks clarity. 
+
 ____
 
+
+### Work Experience:
+PrivatBank, Privat24 AOS Team
+Middle Android/Flutter Developer, 
+I'm working scince September of 2021 and keep going
+   I've been working on Privat24. It's cross-platform mobile applications using Flutter and Android. Privat24 is include a multi-module app architecture, with separate modules for Android and Flutter components, enabling code reusability and maintainability.
+   Collaborated with cross-functional teams, including product managers, designers, and QA engineers, to gather requirements, design, develop, and test mobile applications.
+  I have hands-on experience in developing fully functional services for a banking app in Flutter and Native Android modules. Additionally, I have successfully addressed architecture problems and refactored legacy code to improve the overall quality and maintainability of the app. I have conducted thorough research and successfully implemented updates to permissions in compliance with Google's privacy policy updates.
+   Followed best coding practices and performed code reviews to ensure code quality and maintainability.
+   Implemented unit tests to validate the functionality of mobile applications.
+
+____
+
+
 ### __Skills:__   
-* English B2, Russian, Ukrainian  
-* Touch typing: English, Russian, Ukrainian  
-* Design Patterns  
-* Git
-* REST API
-* Multithreading
-* Algorithms  
-* Android SDK  
-* Kotlin(Coroutine, Coroutine Flow ...)  
-* Firebase(Auth, Firestore, Storage...)  
-* Android Jetpack(JUnit, Dagger Hilt, Compose ( + Compose Navigation), Live Data, Data Binding, Room, Work Manager, Retrofit ( +OkHTTP ), Paging, Shared Preferences ...)  
+Android, Flutter, Kotlin, Java(Lagacy Code), Dart, BLoC, Custom Achitecture and Design Components, Android Jetpack,  API, AWS, Firebase  
   
 
 ____
