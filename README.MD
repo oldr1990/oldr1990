@@ -33,13 +33,18 @@ Android, Flutter, Kotlin, Java(Lagacy Code), Dart, BLoC, Custom Achitecture and 
   
 
 ____
-### My practice projects:
-| __[Word Memorizer](https://github.com/oldr1990/WordsMemorizer)__| __ Android Native__|
+### My practice projects(Uploading gifs of latest projects still in process):
+| __[Word Memorizer](https://github.com/oldr1990/WordsMemorizer)__| __Android Native__|
 |:----|:---------------------:|
-|  This is my latest project. It's Android Native App that build with Room, Retrofit 2, Hilt, Compose, SharedPreferences and go on |
+|  This is my latest project that is still in process. It's Android Native App that build with Room, Retrofit 2, Hilt, Compose, SharedPreferences and go on |
+| | |
+| __[Weahter App](https://github.com/oldr1990/weather_app)__| __Flutter__|
+|  This app  shows data from Firebase. It has Sticky headers and Charts to show data. Data was collected with Arduino device.|
+| | |
+| __[Moview Info Searcher(Flutter)](https://github.com/oldr1990/movie_info_searcher)__| __Flutter__|
+|  This app can search movis and series by name, year, type(all, movie, series).  You can get a more details by click specific item and check raiting and some specific details of that movie or series.|
 | | |
 | __[Movie Info Searcher](https://github.com/oldr1990/Movies)__| __Kotlin__|
-|:----|:---------------------:|
 |  It has splashscreen(theme) and icon. In this app I used fragments for achive single activity app. Project was build with: __Tests, MVVM, Dagger Hilt,  Coroutines Flow, Retrofit, OkHTTP, Navigation, Paging, OMDb API__ . This app can search movis and series by name, year, type(all, movie, series).Every item of search painted in color based on the poster of it (background and text). You can get a more details by click specific item and check raiting and some specific details of that movie or series. _/ Это приложение может искать видео и сериалы по названию фильтруя по годам и/или типу (все, фильм, сериал). Каждый элемент поиска окрашен в цвет в зависимости от его плаката (фон и текст). Вы можете получить более подробную информацию, щелкнув конкретный элемент и посмотреть рейтинг и некоторые конкретные детали этого фильма или сериала._|![Фото проэкта](./Readme/mis_anim.gif) |
 | | |
 | __[Wealthy Notepad](https://github.com/oldr1990/WealthyNotepad)__|  __Kotlin__|
