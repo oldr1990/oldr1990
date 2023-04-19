@@ -17,10 +17,9 @@ ____
 
 
 ### Work Experience:
-PrivatBank, Privat24 AOS Team
-Middle Android/Flutter Developer, 
-I'm working scince September of 2021 and keep going
-   I've been working on Privat24. It's cross-platform mobile applications using Flutter and Android. Privat24 is include a multi-module app architecture, with separate modules for Android and Flutter components, enabling code reusability and maintainability.
+#### PrivatBank, Privat24 AOS Team. Middle Android/Flutter Developer,    
+I'm working scince September of 2021 and keep going   
+   I've been working on Privat24 online banking app. It's cross-platform mobile applications using Flutter and Android. Privat24 is include a multi-module app architecture, with separate modules for Android and Flutter components, enabling code reusability and maintainability.
    Collaborated with cross-functional teams, including product managers, designers, and QA engineers, to gather requirements, design, develop, and test mobile applications.
   I have hands-on experience in developing fully functional services for a banking app in Flutter and Native Android modules. Additionally, I have successfully addressed architecture problems and refactored legacy code to improve the overall quality and maintainability of the app. I have conducted thorough research and successfully implemented updates to permissions in compliance with Google's privacy policy updates.
    Followed best coding practices and performed code reviews to ensure code quality and maintainability.
@@ -35,6 +34,10 @@ Android, Flutter, Kotlin, Java(Lagacy Code), Dart, BLoC, Custom Achitecture and 
 
 ____
 ### My practice projects:
+| __[Word Memorizer](https://github.com/oldr1990/WordsMemorizer)__| __ Android Native__|
+|:----|:---------------------:|
+|  This is my latest project. It's Android Native App that build with Room, Retrofit 2, Hilt, Compose, SharedPreferences and go on |
+| | |
 | __[Movie Info Searcher](https://github.com/oldr1990/Movies)__| __Kotlin__|
 |:----|:---------------------:|
 |  It has splashscreen(theme) and icon. In this app I used fragments for achive single activity app. Project was build with: __Tests, MVVM, Dagger Hilt,  Coroutines Flow, Retrofit, OkHTTP, Navigation, Paging, OMDb API__ . This app can search movis and series by name, year, type(all, movie, series).Every item of search painted in color based on the poster of it (background and text). You can get a more details by click specific item and check raiting and some specific details of that movie or series. _/ Это приложение может искать видео и сериалы по названию фильтруя по годам и/или типу (все, фильм, сериал). Каждый элемент поиска окрашен в цвет в зависимости от его плаката (фон и текст). Вы можете получить более подробную информацию, щелкнув конкретный элемент и посмотреть рейтинг и некоторые конкретные детали этого фильма или сериала._|![Фото проэкта](./Readme/mis_anim.gif) |
