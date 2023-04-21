@@ -1,5 +1,6 @@
 ____
-### Alexandr Burykin  
+### Alexandr Burykin 
+### Android/Flutter Developer
 <img src="https://github.com/oldr1990/oldr1990/blob/master/Readme/resumeAvatar.jpg" width="285" height="300">  
   
 
