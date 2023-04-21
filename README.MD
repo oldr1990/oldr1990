@@ -29,7 +29,7 @@ ____
 
 
 ### __Skills:__   
-Android, Flutter, Kotlin, Java(Lagacy Code), Dart, BLoC, Custom Achitecture and Design Components, Android Jetpack,  API, AWS, Firebase  
+SOLID, OOP, Android, Flutter, Kotlin, Java(Lagacy Code), MVVM, Dart, BLoC, Custom Achitecture and Design Components, Android Jetpack(Compose, Room, Hilt, Retrofit 2, Paging etc), REST API, AWS, Firebase
   
 
 ____
